@@ -41,29 +41,6 @@ I'm a developer who loves exploring the intersection of **blockchain**, **artifi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=2Lavine&show_icons=true&theme=transparent&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2Lavine&layout=compact&theme=transparent&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2Lavine&theme=transparent&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&hide_border=true&background=0d1117" alt="Streak" />
-</p>
-
----
-
-## 🏆 Featured Project
-
-<p align="center">
-  <a href="https://github.com/2Lavine/00hou-rich">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2Lavine&repo=00hou-rich&theme=transparent&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 📫 Connect
 
 <p align="center">
